@@ -18,6 +18,9 @@
   ],
   "default_locale": "en",
   "permissions": {
+    "desktop-notification": {
+      "description": "To show notifications"
+    },
     "geolocation": {
       "description": "Marking out user location"
     },
